@@ -401,6 +401,8 @@ In verteilten Systemen mit häufigen Deployments sind Feature-Flags kein Nice-to
 -->
 
 ---
+hide: true
+---
 
 # Das Ökosystem: SDKs
 
@@ -448,9 +450,34 @@ timeline
 
 ---
 
-# Case Study: Synergien von CNCF Projekten
+# Case Study: Synergien zwischen CNCF-Projekten
 
-TBD: OpenFeature und OTEL zusammenarbeit bei FF SemConv
+**OpenFeature** + **OpenTelemetry (OTEL)** haben gemeinsam die <a href="https://opentelemetry.io/docs/specs/semconv/feature-flags/feature-flags-events/" target="_blank">OTEL Semantic Conventions für Feature Flags</a> entwickelt.
+
+<br>
+
+### Was ist passiert?
+
+- Gemeinsame OTEL **SIG** (Special Interest Group) aus beiden Projekten gegründet
+- Standardisierte **Attribute** für Feature-Flag-Events definiert (z.B. `feature_flag.key`, `feature_flag.result.variant`)
+- OpenFeature <a href="https://openfeature.dev/specification/appendix-d" target="_blank">Telemetry-Hooks</a> emittieren bei jeder Flag-Evaluierung automatisch OTEL-Events
+
+<br>
+
+### Das Ergebnis:
+
+Feature Flagging wird **beobachtbar** -- mit standardisierter Telemetrie, die in jedes OTEL-kompatible Tool fließt.
+
+<p class="text-sm opacity-50 mt-4">Quellen: <a href="https://opentelemetry.io/docs/specs/semconv/feature-flags/feature-flags-events/" target="_blank">OTEL SemConv: Feature Flags</a>, <a href="https://openfeature.dev/specification/appendix-d" target="_blank">OF Appendix D</a>, <a href="https://openfeature.dev/blog/feature-observability-semantic-conventions" target="_blank">OF Blog</a></p>
+
+<!--
+- Zwei CNCF-Projekte arbeiten zusammen
+- Gemeinsame SIG für Feature Flag Semantic Conventions
+- OF definiert Spezifikation + SDKs, OTEL definiert Telemetrie-Format
+- Appendix D: Mapping von OF-Feldern auf OTEL-Attribute
+- Ergebnis: Feature-Flag-Evaluierungen standardisiert beobachtbar
+- Zeigt: CNCF-Projekte schaffen Synergien, die allein nicht möglich wären
+-->
 
 ---
 
@@ -512,7 +539,7 @@ Wie könnt **ihr** Teil davon werden?
 
 <!--
 - Lokales Rückgrat der CNCF
-- Weltweit: SF, Bangalore, Berlin, São Paulo
+- Weltweit: SF, Bangalore, Berlin, São Paulo, Island
 - Jetzt auch Münster
 -->
 

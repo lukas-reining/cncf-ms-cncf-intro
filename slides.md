@@ -1,6 +1,6 @@
 ---
 theme: default
-title: "CNCF Demystified –- Struktur, Funktion und Relevanz"
+title: "Kubernetes war erst der Anfang -- Was die CNCF ausmacht und wie man Teil davon wird"
 info: |
   Ein Talk beim Cloud Native Münster Meetup.
   Was ist die CNCF, warum ist sie relevant, wie funktioniert sie --
@@ -18,9 +18,9 @@ mdc: true
 
 <img src="/images/cncf-münster_logo.png" class="mx-auto mb-4" style="max-height: 120px;" />
 
-# CNCF Demystified
+# Kubernetes war der Anfang
 
-## Struktur, Funktion und Relevanz
+## Die CNCF und warum sie relevant ist
 
 <!--
 - Willkommen beim ersten Cloud Native Münster Meetup

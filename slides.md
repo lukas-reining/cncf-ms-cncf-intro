@@ -246,11 +246,12 @@ layout: two-cols
 
 <img src="/images/project-stages.png" class="mx-auto" style="max-height: 180px;" />
 
-| Level | Bedeutung                                                           |
-|-------|---------------------------------------------------------------------|
-| **Sandbox** | Experimentell, Breaking Changes möglich                             |
+| Level          | Bedeutung                                                             |
+|----------------|-----------------------------------------------------------------------|
+| **Sandbox**    | Experimentell, Breaking Changes möglich                               |
 | **Incubating** | Zunehmend stabil, nachgewiesene Nutzung durch mehrere "große" Adopter |
-| **Graduated** | Höchste Reife, nachgewiesene Nutzung in Production                  |
+| **Graduated**  | Höchste Reife, nachgewiesene Nutzung in Production                    |
+| **Archived**   | Projekt wird nicht mehr gewartet, Reaktivierung später möglich        |
 
 <p class="text-sm opacity-50 mt-2">Quellen: <a href="https://github.com/cncf/toc/blob/main/process/project-stages.png" target="_blank">github.com/cncf/toc</a>, <a href="https://github.com/cncf/toc/blob/main/.github/ISSUE_TEMPLATE/template-incubation-application.md" target="_blank">Incubation Template</a>, <a href="https://github.com/cncf/toc/blob/main/.github/ISSUE_TEMPLATE/template-graduation-application.md" target="_blank">Graduation Template</a></p>
 

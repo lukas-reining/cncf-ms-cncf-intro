@@ -19,7 +19,7 @@ hideFooter: true
 
 <img src="/images/cncf-münster_logo.png" class="mx-auto mb-4" style="max-height: 120px;" />
 
-# Kubernetes war der Anfang
+# Kubernetes war nur der Anfang
 
 ## Die CNCF und warum sie relevant ist
 
@@ -40,7 +40,6 @@ layout: center
 - **Lukas Reining**
 - IT-Consultant & Entwickler bei codecentric 
 - Technical Committee Member & Maintainer bei **OpenFeature** (CNCF Incubating)
-- Nutzer von CNCF-Technologien und Projekt-Maintainer -- hier um meine Perspektive zu teilen
 
 <!--
 - Lukas, IT-Consultant bei codecentric
@@ -121,7 +120,6 @@ Die **Cloud Native Computing Foundation** ist...
 
 ### Konkret bedeutet das:
 
-- **Neutrale Heimat** für Open-Source-Projekte bieten
 - **Vendor-neutral** bleiben -- kein Unternehmen kontrolliert ein Projekt allein
 - **Interoperabilität** zwischen Projekten fördern
 - **Community** aufbauen und unterstützen
@@ -179,7 +177,7 @@ timeline
 
 <!--
 - Screenshot von cncf.io
-- 218+ Projekte, 306K+ Contributors, 721+ Mitglieder
+- 218+ aktive Projekte, 306K+ Contributors, 721+ Mitglieder
 -->
 
 ---
@@ -254,9 +252,10 @@ layout: two-cols
 | **Incubating** | Zunehmend stabil, nachgewiesene Nutzung durch mehrere "große" Adopter |
 | **Graduated** | Höchste Reife, nachgewiesene Nutzung in Production                  |
 
-<p class="text-sm opacity-50 mt-2">Quelle: <a href="https://github.com/cncf/toc/blob/main/process/project-stages.png" target="_blank">github.com/cncf/toc</a></p>
+<p class="text-sm opacity-50 mt-2">Quellen: <a href="https://github.com/cncf/toc/blob/main/process/project-stages.png" target="_blank">github.com/cncf/toc</a>, <a href="https://github.com/cncf/toc/blob/main/.github/ISSUE_TEMPLATE/template-incubation-application.md" target="_blank">Incubation Template</a>, <a href="https://github.com/cncf/toc/blob/main/.github/ISSUE_TEMPLATE/template-graduation-application.md" target="_blank">Graduation Template</a></p>
 
 <!--
+- That they have adoption, a healthy rate of changes, and committers from multiple organizations
 - Offizielles Diagramm aus dem CNCF TOC Repo
 - Sandbox: experimentell, Breaking Changes erwartet
 - Incubating: stabiler, min. 3 Adopter (dev/test oder production)
@@ -285,16 +284,6 @@ layout: two-cols
 - Umfangreiche Kriterien: Verbreitung, Governance, Security, Community
 - TOC bewertet Gesamtbild, nicht nur Code
 - Projekt muss nachhaltig, offen, vendor-neutral geführt werden
--->
-
----
-layout: center
----
-
-# Was bekommt ein Projekt von der CNCF?
-
-<!--
-- Was hat ein Projekt davon, Teil der CNCF zu sein?
 -->
 
 ---

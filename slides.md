@@ -484,8 +484,6 @@ Wir haben mit der CNCF einen **kostenlosen Kurs** für OpenFeature erstellt:
   <img src="/images/openfeature-training.png" class="mx-auto rounded shadow-lg" style="max-height: 340px;" />
 </a>
 
-Das Projekt allein hätte so einen Kurs **nie stemmen können** -- die CNCF/LF macht es möglich.
-
 <p class="text-sm opacity-50 mt-2">Quelle: <a href="https://training.linuxfoundation.org/training/feature-flagging-with-openfeature-lfs140/" target="_blank">Linux Foundation Training -- LFS140</a></p>
 
 <!--

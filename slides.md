@@ -476,6 +476,28 @@ Feature Flagging wird **beobachtbar** -- mit standardisierter Telemetrie, die in
 
 ---
 
+# Case Study: CNCF Marketing & Education
+
+Wir haben mit der CNCF einen **kostenlosen Kurs** für OpenFeature erstellt:
+
+<a href="https://training.linuxfoundation.org/training/feature-flagging-with-openfeature-lfs140/" target="_blank">
+  <img src="/images/openfeature-training.png" class="mx-auto rounded shadow-lg" style="max-height: 340px;" />
+</a>
+
+Das Projekt allein hätte so einen Kurs **nie stemmen können** -- die CNCF/LF macht es möglich.
+
+<p class="text-sm opacity-50 mt-2">Quelle: <a href="https://training.linuxfoundation.org/training/feature-flagging-with-openfeature-lfs140/" target="_blank">Linux Foundation Training -- LFS140</a></p>
+
+<!--
+- CNCF/LF unterstützt Projekte mit Education & Marketing
+- Kostenloser Kurs: LFS140, 10h, Self-Paced, Hands-on
+- 4.8/5 Sterne Bewertung
+- Hilft: Sichtbarkeit, Adoption, Onboarding neuer Nutzer
+- Das könnte ein kleines Projekt allein nie stemmen
+-->
+
+---
+
 # Wie fühlt es sich an, in einem CNCF-Projekt zu sein?
 
 <br>

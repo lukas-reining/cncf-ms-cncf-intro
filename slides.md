@@ -14,6 +14,7 @@ drawings:
   persist: false
 transition: slide-left
 mdc: true
+hideFooter: true
 ---
 
 <img src="/images/cncf-münster_logo.png" class="mx-auto mb-4" style="max-height: 120px;" />
@@ -181,6 +182,8 @@ timeline
 - 218+ Projekte, 306K+ Contributors, 721+ Mitglieder
 -->
 
+---
+hideFooter: true
 ---
 
 <div class="overflow-hidden rounded" style="height: 95%;">
